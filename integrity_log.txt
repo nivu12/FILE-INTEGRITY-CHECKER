@@ -1,0 +1,18 @@
+[2025-10-04 13:29:07] 🔍 Started monitoring: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder
+[2025-10-04 13:29:07]  'NNN.txt' EXISTING FILE DETECTED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\NNN.txt
+[2025-10-04 13:30:06] 🟢 'ggg.txt' SEEMS TO BE CREATED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\ggg.txt
+[2025-10-04 13:30:11] 🟡 'ggg.txt' FILE SEEMS TO BE MODIFIED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\ggg.txt
+[2025-10-04 13:36:35] 🔍 Started monitoring: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder
+[2025-10-04 13:36:53] 🟡 'NNN.txt' FILE SEEMS TO BE MODIFIED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\NNN.txt
+[2025-10-04 13:36:53] 🟡 'NNN.txt' FILE SEEMS TO BE MODIFIED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\NNN.txt
+[2025-10-04 13:46:48] 🔴 'NNN.txt' FILE SEEMS TO BE DELETED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\NNN.txt
+[2025-10-04 13:48:11] 🟢 'new.txt' SEEMS TO BE CREATED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\new.txt
+[2025-10-04 13:48:11] 🟡 'new.txt' FILE SEEMS TO BE MODIFIED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\new.txt
+[2025-10-04 13:49:10] 🟡 'new.txt' FILE SEEMS TO BE MODIFIED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\new.txt
+[2025-10-04 13:51:06] 🟡 'ggg.txt' FILE SEEMS TO BE MODIFIED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\ggg.txt
+[2025-10-05 11:52:50] 🔍 Started monitoring: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder
+[2025-10-06 10:27:45] 🟢 'first.txt' SEEMS TO BE CREATED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\first.txt
+[2025-10-06 10:27:45] 🔴 'first.txt' FILE SEEMS TO BE DELETED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\first.txt
+[2025-10-06 10:27:45] 🟢 'first.txt' SEEMS TO BE CREATED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\first.txt
+[2025-10-06 10:28:25] 🔴 'ggg.txt' FILE SEEMS TO BE DELETED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\ggg.txt
+[2025-10-06 10:28:34] 🟡 'first.txt' FILE SEEMS TO BE MODIFIED | Path: C:\Users\TERESA MARY KA\Desktop\CODTECH SOLUTIONS\test_folder\first.txt
